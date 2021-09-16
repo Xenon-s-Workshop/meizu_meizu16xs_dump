@@ -1,0 +1,14 @@
+# meizu_16Xs-user 9 PKQ1.190302.001 1560830588 release-keys
+- manufacturer: meizumeizu
+- platform: sm6150
+- codename: meizu16Xs
+- flavor: K81926AA1-user
+- release: 9
+- id: PKQ1.190302.001
+- incremental: 1560830588
+- tags: release-keys
+- fingerprint: meizu/meizu_16Xs/meizu16Xs:9/PKQ1.190302.001/1560830588:user/release-keys
+- is_ab: false
+- brand: meizu
+- branch: meizu_16Xs-user-9-PKQ1.190302.001-1560830588-release-keys
+- repo: meizu_meizu16xs_dump
